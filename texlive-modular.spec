@@ -1,6 +1,6 @@
 Name:		texlive-modular
 Version:	44142
-Release:	1
+Release:	2
 Summary:	Relative section headings for modular documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/modular
